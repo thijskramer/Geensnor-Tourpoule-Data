@@ -8,6 +8,10 @@
         "George Bennett",
         "Dylan Groenewegen"
     ],
+    "jerseyWearers": {
+        "leaderJersey": "Klaas",
+        "climberJersey": "Wout van Aert"
+    },
     "didNotFinish": [
         "Egan Bernal",
         "Richard Carapaz"
