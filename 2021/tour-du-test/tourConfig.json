@@ -1,0 +1,9 @@
+{
+    "name": "Geensnor test tour 2021",
+    "status": "open",
+    "start": "2021-12-12",
+    "jerseyNames": {
+        "leaderJersey": "de gele snor",
+        "climberJersy": "de berg snor"
+    }
+}
