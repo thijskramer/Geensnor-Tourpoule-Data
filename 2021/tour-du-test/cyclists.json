@@ -1,20 +1,20 @@
 [
     {
-        "team": "Nijmegen Trappers",
+        "teamName": "Nijmegen Trappers",
         "cyclists": [
             "Rik",
             "Joris"
         ]
     },
     {
-        "team": "Utrecht Stoempers",
+        "teamName": "Utrecht Stoempers",
         "cyclists": [
             "Erik",
             "Klaas"
         ]
     },
     {
-        "team": "Jumbo-Visma",
+        "teamName": "Jumbo-Visma",
         "cyclists": [
             "Wout van Aert",
             "George Bennett",
@@ -22,7 +22,7 @@
         ]
     },
     {
-        "team": "Ineos Grenadiers",
+        "teamName": "Ineos Grenadiers",
         "cyclists": [
             "Egan Bernal",
             "Richard Carapaz",
