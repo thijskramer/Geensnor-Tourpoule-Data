@@ -15,6 +15,5 @@ jobs:
         username: poule@jorisxl2.two.axc.nl
         password: ${{ secrets.ftppassword }}
         server-dir: tourData/
-        exclude:
-          - readme.md
+        exclude: "[**/.git*/**, readme.md]"
         dangerous-clean-slate: true 
