@@ -50,3 +50,17 @@ jobs:
           VALIDATE_ALL_CODEBASE: false
           DEFAULT_BRANCH: main
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          
+  FTP-Deploy-Action:
+    name: FTP-Deploy-Action
+    needs: build
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@main
+      - name: FTP-Deploy-Action
+        uses: SamKirkland/FTP-Deploy-Action@2.0.0
+        env:
+          FTP_SERVER: jorisxl2.two.axc.nl
+          FTP_USERNAME: poule@jorisxl2.two.axc.nl
+          FTP_PASSWORD: ${{ secrets.ftppassword }}
+          ARGS: --exclude-glob=.git*/** --exclude-glob=.git** --delete
