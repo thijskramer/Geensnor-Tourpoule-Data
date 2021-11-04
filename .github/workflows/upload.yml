@@ -17,3 +17,4 @@ jobs:
           FTP_USERNAME: poule@jorisxl2.two.axc.nl
           FTP_PASSWORD: ${{ secrets.ftppassword }}
           ARGS: --exclude-glob=.git*/** --exclude-glob=.git** --delete
+          server-dir: tourData/
