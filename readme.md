@@ -4,7 +4,7 @@ work in progress
 
 ## Waarom Git?
 
-Omdat je het beheer van de etappes en renners een beetje kan verdelen en je geen admin paneel hoeft te maken. Idee is dat je een ronde kan starten en beheren vanuit een repository. 
+Omdat je het beheer van de etappes en renners een beetje kan verdelen en je geen admin paneel hoeft te maken. Idee is dat je een ronde kan starten en beheren vanuit deze repository. 
 
 ## En hoe kan ik m'n team dan samenstellen?
 
