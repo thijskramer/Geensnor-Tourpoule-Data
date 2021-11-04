@@ -1,20 +1,22 @@
-on: 
-  push:
-    branches: 
-      - main
-      
+on: push
 name: Publish tour data
 jobs:
-  FTP-Deploy-Action:
-    name: FTP-Deploy-Action
+  web-deploy:
+    name: 🎉 Deploy
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@master
-    - name: FTP-Deploy-Action
-      uses: SamKirkland/FTP-Deploy-Action@2.0.0
-      env:
-          FTP_SERVER: jorisxl2.two.axc.nl
-          FTP_USERNAME: poule@jorisxl2.two.axc.nl
-          FTP_PASSWORD: ${{ secrets.ftppassword }}
-          ARGS: --exclude-glob=.git*/** --exclude-glob=.git** --delete
-          server-dir: tourData/
+    - name: 🚚 Get latest code
+      uses: actions/checkout@v2
+    
+    - name: 📂 Sync files
+      uses: SamKirkland/FTP-Deploy-Action@4.1.0
+      with:
+        server: jorisxl2.two.axc.nl
+        username: poule@jorisxl2.two.axc.nl
+        password: ${{ secrets.ftppassword }}
+        server-dir: tourData/
+        exclude:
+         - readme.md
+         - **/.git*
+         - **/.git*/**
+        dangerous-clean-slate: true 
