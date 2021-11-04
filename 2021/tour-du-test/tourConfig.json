@@ -4,6 +4,15 @@
     "start": "2021-12-12",
     "jerseyNames": {
         "leaderJersey": "de gele snor",
-        "climberJersy": "de berg snor"
+        "climberJersey": "de berg snor"
+    },
+    "scoring": {
+        "ranking": [
+            "50",
+            "40",
+            "10"
+        ],
+        "leaderJersey": "20",
+        "climberJersey": "10"
     }
 }
