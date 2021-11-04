@@ -16,5 +16,5 @@ jobs:
         password: ${{ secrets.ftppassword }}
         server-dir: tourData/
         exclude:
-         - readme.md
+          - readme.md
         dangerous-clean-slate: true 
