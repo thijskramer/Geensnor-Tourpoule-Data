@@ -8,4 +8,4 @@ Omdat je het beheer van de etappes en renners een beetje kan verdelen en je geen
 
 ## En hoe kan ik m'n team dan samenstellen?
 
-In een beveiligde map op de server waar de boel draait. Die kun je invullen op een formulier. Het formulier wordt weer opgebouwd uit de lijst van renners (cyclists.json per tour) in deze repo.
+In een beveiligde map op de server waar de boel draait. Die kun je invullen op een formulier. Het formulier wordt weer opgebouwd uit de lijst van renners (cyclists.json per tour) in deze repository.
