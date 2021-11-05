@@ -1,0 +1,9 @@
+{
+    "name": "Tour de France 2022",
+    "status": "closed",
+    "start": "2022-07-01",
+    "jerseyNames": {
+        "leaderJersey": "Gele trui",
+        "climberJersy": "Bolletjes trui"
+    }
+}
