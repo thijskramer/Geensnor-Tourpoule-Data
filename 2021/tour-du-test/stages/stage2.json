@@ -1,12 +1,12 @@
 {
-    "name": "Etappe 1",
-    "route": "Zoutkamp - Valkenburg",
-    "date": "2021-12-13",
+    "name": "Etappe 2",
+    "route": "Valkenburg - Luik",
+    "date": "2021-12-14",
     "status": "final",
     "stageResults": [
-        "Klaas",
-        "Mathieu van der Poel",
-        "Wout van Aert"
+        "George Bennett",
+        "Erik",
+        "Richard Carapaz"
     ],
     "jerseyWearers": [
         {
@@ -17,9 +17,5 @@
             "jersey": "De Berg Snor",
             "cyclist": "Wout van Aert"
         }
-    ],
-    "didNotFinish": [
-        "Egan Bernal",
-        "Richard Carapaz"
     ]
 }
