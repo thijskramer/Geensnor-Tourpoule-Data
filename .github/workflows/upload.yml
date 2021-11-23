@@ -19,6 +19,7 @@ jobs:
         dangerous-clean-slate: true 
 
   http-request:
+    needs: web-deploy
     runs-on: ubuntu-latest
     steps:
     - name: Deploy Stage
