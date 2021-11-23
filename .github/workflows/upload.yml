@@ -17,3 +17,11 @@ jobs:
         server-dir: tourData/
         exclude: "[**/.git*/**, readme.md]"
         dangerous-clean-slate: true 
+
+  http-request:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Deploy Stage
+      uses: fjogeleit/http-request-action@master
+      with:
+        url: ${{ secrets.httprequesturl }}
