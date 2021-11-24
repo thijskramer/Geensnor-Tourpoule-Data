@@ -22,7 +22,7 @@ jobs:
     needs: web-deploy
     runs-on: ubuntu-latest
     steps:
-    - name: Deploy Stage
+    - name: Make HTTP request
       uses: fjogeleit/http-request-action@master
       with:
         url: ${{ secrets.httprequesturl }}
