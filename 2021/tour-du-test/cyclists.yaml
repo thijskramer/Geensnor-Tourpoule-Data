@@ -1,0 +1,121 @@
+---
+- teamName: Team Jumbo-Visma
+  cyclists:
+  - Primoz Roglic
+  - Wout van Aert
+  - Robert Gesink
+  - Steven Kruijswijk
+  - Sepp Kuss
+  - Tony Martin
+  - Mike Teunissen
+  - Jonas Vingegaard
+- teamName: Ineos Grenadiers
+  cyclists:
+  - Geraint Thomas
+  - Richard Carapaz
+  - Jonathan Castroviejo
+  - Tao Geoghegan Hart
+  - Michal Kwiatkowski
+  - Richie Porte
+  - Luke Rowe
+  - Dylan van Baarle
+- teamName: UAE-Team Emirates
+  cyclists:
+  - Tadej Pogacar
+  - Mikkel Bjerg
+  - Rui Costa
+  - Davide Formolo
+  - Marc Hirschi
+  - Vegard Stake Langhen
+  - Rafał Majka
+  - Brandon McNulty
+- teamName: Trek – Segafredo
+  cyclists:
+  - Vincenzo Nibali
+  - Julien Bernard
+  - Kenny Elissonde
+  - Bauke Mollema
+  - Mads Pedersen
+  - Toms Skujins
+  - Jasper Stuyven
+  - Edward Theuns
+- teamName: Deceuninck-QuickStep
+  cyclists:
+  - Julian Alaphilippe
+  - Kasper Asgreen
+  - Davide Ballerini
+  - Mattia Cattaneo
+  - Mark Cavendish
+  - Tim Declercq
+  - Dries Devenyns
+  - Michael Mørkøv
+- teamName: Movistar
+  cyclists:  
+  - Miguel Ángel López
+  - Jorge Ercas
+  - Imanol Erviti
+  - Iván García
+  - Enric Mas
+  - Marc Soler
+  - Alejandro Valverde
+  - Carlos Verona
+- teamName: BORA – hansgrohe
+  cyclists: 
+  - Peter Sagan
+  - Emanuel Buchmann
+  - Wilco Kelderman
+  - Patrick Konrad
+  - Daniel Oss
+  - Nils Politt
+  - Lukas Pöstlberger
+  - Ide Schelling
+- teamName: Groupama – FDJ
+  cyclists:   
+  - David Gaudu
+  - Bruno Armirail
+  - Arnaud Démare
+  - Jacopo Guarnieri
+  - Ignatas Konovalovas
+  - Stefan Küng
+  - Valentin Madouas
+  - Miles Scotson
+- teamName: Cofidis
+  cyclists:   
+  - Guillaume Martin
+  - Rubén Fernández
+  - Simon Geschke
+  - Jesús Herrada
+  - Christophe Laporte
+  - Anthony Perez
+  - Pierre-Luc Périchon
+  - Jelle Wallays
+- teamName: Alpecin-Fenix
+  cyclists:     
+  - Mathieu van der Poel
+  - Silvan Dillier
+  - Tim Merlier
+  - Xandro Meurisse
+  - Jasper Philipsen
+  - Jonas Rickaert
+  - Kristian Sbaragli
+  - Petr Vakoc
+- teamName: EF Education – Nippo
+  cyclists:   
+  - Rigoberto Uran
+  - Stefan Bissegger
+  - Ruben Guerreiro
+  - Sergio Higuita
+  - Michael Valgren
+  - Magnus Cort
+  - Neilson Powless
+  - Jonas Rutsch
+- teamName: AG2R Citroën
+  cyclists: 
+  - Benoît Cosnefroy
+  - Dorian Godon
+  - Oliver Naesen
+  - Ben O’Connor
+  - Aurélien Paret-Peintre
+  - Nans Peters
+  - Michael Schär
+  - Greg van Avermaet
