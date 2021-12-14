@@ -1,11 +1,9 @@
-# Configuratie bestanden voor git/json based tourspel
+# Configuratie bestanden tourpoule
 
-work in progress
+## Algemeen
+- In currentTour.yaml wordt de locatie van de huidige tour bepaald.
 
-## Waarom Git?
-
-Omdat je het beheer van de etappes en renners een beetje kan verdelen en je geen admin paneel hoeft te maken. Idee is dat je een ronde kan starten en beheren vanuit deze repository. 
-
-## En hoe kan ik m'n team dan samenstellen?
-
-In een beveiligde map op de server waar de boel draait. Die kun je invullen op een formulier. Het formulier wordt weer opgebouwd uit de lijst van renners (cyclists.json per tour) in deze repository.
+## Per tour:
+- cyclists.yaml voor alle ploegen en renners die starten aan aan de tour.
+- tourConfig.yaml om een aantal tour specifieke variabelen vast te leggen.
+- Elke etappe heeft een eigen yaml bestand in de stages directory waarin de uitslag en een aantal andere variabelen worden vastgelegd.
