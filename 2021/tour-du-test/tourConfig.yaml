@@ -3,6 +3,9 @@ name: Geensnor test tour 2021
 status: open
 start: 2022-12-12
 maxCyclistsInUserTeam: "12"
+externalRankingLink:
+  title: Algemeen klassement link test
+  url: https://www.geensnor.nl
 jerseys:
   De Gele Snor: "20"
   De Berg Snor: "10"
