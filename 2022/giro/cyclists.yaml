@@ -1,0 +1,41 @@
+---
+- teamName: Team Jumbo-Visma
+  cyclists:
+    - Tobias Foss
+    - Tom Dumoulin
+- teamName: Astana Qazaqstan
+  cyclists:
+    - David De la Cruz
+    - Miguel Ángel López
+    - Vincenzo Nibali
+- teamName: Bahrain Victorious
+  cyclists:
+    - Mikel Landa
+- teamName: BikeExchange-Jayco
+  cyclists:
+    - Simon Yates
+- teamName: Cofidis
+  cyclists:
+    - Guillaume Martin 
+- teamName: INEOS Grenadiers
+  cyclists:
+    - Richard Carapaz
+    - Richie Porte
+    - Tom Pidcock
+- teamName: Movistar
+  cyclists:
+    - Alejandro Valverde
+- teamName: Trek-Segafredo
+  cyclists:
+    - Giulio Ciccone
+    - Bauke Mollema
+- teamName: UAE Emirates
+  cyclists:
+    - João Almeida
+- teamName: UAE Emirates
+  cyclists:
+    - Arnaud Démare
+    - Davide Formolo
+- teamName: Israel-Premier Tech
+  cyclists:
+    - Giacomo Nizzolo
