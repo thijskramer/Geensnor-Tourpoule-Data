@@ -1,8 +1,14 @@
 ---
 - teamName: Team Jumbo-Visma
   cyclists:
-    - Tobias Foss
     - Tom Dumoulin
+    - Koen Bouwman
+    - Sam Oomen
+    - Jos van Emden
+    - Edoardo Affini
+    - Tobias Foss
+    - Pascal Eenkhoorn
+    - Chris Harper
 - teamName: Astana Qazaqstan
   cyclists:
     - David De la Cruz
