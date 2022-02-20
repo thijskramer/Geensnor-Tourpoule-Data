@@ -6,7 +6,7 @@
 
 ## Per tour
 
-- cyclists.yaml voor alle ploegen en renners die starten aan aan de tour.
+- cyclists.yaml voor alle ploegen en renners die starten aan aan de tour. [Hier](http://geensnor.nl/tourtool/) staat een tool die je kan helpen met renners in het juiste formaat te zetten.
 - tourConfig.yaml om een aantal tour specifieke variabelen vast te leggen.
 - Elke etappe heeft een eigen yaml bestand in de stages directory waarin de uitslag en een aantal andere variabelen worden vastgelegd.
 
