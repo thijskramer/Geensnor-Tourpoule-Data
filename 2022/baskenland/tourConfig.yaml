@@ -1,0 +1,14 @@
+---
+name: Ronde van het Baskenland 2022
+status: closed
+start: 2022-04-04
+maxCyclistsInUserTeam: "12"
+externalRankingLink:
+  title: touretappe.nl
+  url: https://www.touretappe.nl/ronde-van-het-baskenland-2022/
+scoring:
+  - "50"
+  - "40"
+  - "20"
+  - "10"
+  - "5"

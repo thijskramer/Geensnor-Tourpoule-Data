@@ -1,0 +1,50 @@
+---
+- teamName: Jumbo – Visma
+  cyclists:
+   - Primoz Roglic
+   - Jonas Vingegaard
+   - Sepp Kuss
+   - Robert Gesink
+   - Milan Vader
+- teamName: Quick Step – Alpha Vinyl
+  cyclists:
+   - Julian Alaphilippe
+   - Remco Evenepoel
+   - Mauri Vansevenant
+- teamName: Bahrain Victorious
+  cyclists:
+   - Pello Bilbao
+   - Damiano Caruso
+- teamName: BORA – hansgrohe
+  cyclists:
+   - Aleksandr Vlasov
+   - Emanuel Buchmann
+   - Sergio Higuita
+- teamName: Cofidis
+  cyclists:
+   - Ion Izagirre
+   - Rémy Rochas
+- teamName: Groupama – FDJ
+  cyclists:
+   - David Gaudu
+   - Anthony Roux
+   - Mathieu Ladagnous
+- teamName: Movistar
+  cyclists:
+   - Enric Mas
+   - Alejandro Valverde
+   - Carlos Verona
+- teamName: Trek – Segafredo
+  cyclists:
+   - Bauke Mollema
+   - Juan Pedro López
+- teamName: UAE Emirates
+  cyclists:
+   - Tadej Pogacar
+   - Rafal Majka
+   - Marc Soler
+   - Davide Formolo
+- teamName: Arkéa Samsic
+  cyclists:
+   - Nairo Quintana
+   - Warren Barguil
