@@ -1,50 +1,199 @@
 ---
-- teamName: Jumbo – Visma
+- teamName: Jumbo-Visma
   cyclists:
    - Primoz Roglic
-   - Jonas Vingegaard
-   - Sepp Kuss
+   - Pascal Eenkhoorn
    - Robert Gesink
+   - Chris Harper
+   - Sepp Kuss
    - Milan Vader
-- teamName: Quick Step – Alpha Vinyl
-  cyclists:
-   - Julian Alaphilippe
-   - Remco Evenepoel
-   - Mauri Vansevenant
+   - Jonas Vingegaard
 - teamName: Bahrain Victorious
   cyclists:
+   - Yukiya Arashiro
    - Pello Bilbao
-   - Damiano Caruso
-- teamName: BORA – hansgrohe
+   - Gino Mäder
+   - Domen Novak
+   - Alejandro Osorio
+   - Johan Price-Pejtersen
+   - Edoardo Zambanini
+- teamName: UAE Team Emirates
   cyclists:
-   - Aleksandr Vlasov
-   - Emanuel Buchmann
-   - Sergio Higuita
+   - Juan Ayuso
+   - George Bennett
+   - Finn Fisher-Black
+   - Davide Formolo
+   - Rafal Majka
+   - Brandon McNulty
+   - Marc Soler
+- teamName: Astana Qazaqstan Team
+  cyclists:
+   - Valerio Conti
+   - Stefan de Bod
+   - Sebastian Henao
+   - Yuriy Natarov
+   - Antonio Nibali
+   - Alexandr Riabushenko
+   - Javier Romo
+- teamName: Quick-Step Alpha Vinyl Team
+  cyclists:
+   - Julian Alaphilippe
+   - Mattia Cattaneo
+   - Dries Devenyns
+   - Remco Evenepoel
+   - James Knox
+   - Pieter Serry
+   - Mauri Vansevenant
+- teamName: Movistar Team
+  cyclists:
+   - Juri Hollmann
+   - Gorka Izagirre
+   - Matteo Jorgenson
+   - Enric Mas
+   - Gregor Muhlberger
+   - Nelson Oliveira
+   - Óscar Rodríguez
+- teamName: INEOS Grenadiers
+  cyclists:
+   - Andrey Amador
+   - Edward Dunbar
+   - Omar Fraile
+   - Daniel Martinez
+   - Carlos Rodriguez
+   - Geraint Thomas
+   - Adam Yates
 - teamName: Cofidis
   cyclists:
    - Ion Izagirre
-   - Rémy Rochas
-- teamName: Groupama – FDJ
+   - Sander Armee
+   - Ruben Fernandez
+   - Simon Geschke
+   - Jose Herrada
+   - Pierre-Luc Périchon
+   - Davide Villella
+- teamName: BORA-hansgrohe
+  cyclists:
+   - Emanuel Buchmann
+   - Felix Großschartner
+   - Sergio Higuita
+   - Lennard Kämna
+   - Anton Palzer
+   - Aleksandr Vlasov
+   - Frederik Wandahl
+- teamName: Team BikeExchange-Jayco
+  cyclists:
+   - Kevin Colleoni
+   - Lawson Craddock
+   - Tsgabu Grmay
+   - Lucas Hamilton
+   - Christopher Juul-Jensen
+   - Jan Maas
+   - Nick Schultz
+- teamName: TotalEnergies
+  cyclists:
+   - Jérémy Cabot
+   - Fabien Doubey
+   - Fabien Grellier
+   - Alan Jousseaume
+   - Pierre Latour
+   - Cristian Rodriguez
+   - Alexis Vuillermoz
+- teamName: Intermarché-Wanty-Gobert
+  cyclists:
+   - Kobe Goossens
+   - Quinten Hermans
+   - Jan Hirt
+   - Laurens Huys
+   - Hugo Page
+   - Kevin Van Melsen
+   - Georg Zimmermann
+- teamName: Team DSM
+  cyclists:
+   - Romain Combaud
+   - Mark Donovan
+   - Leon Heinschke
+   - Andreas Leknessund
+   - Tim Naberman
+   - Florian Stork
+   - Martijn Tusveld
+- teamName: Caja Rural-Seguros RGA
+  cyclists:
+   - Mikel Nieve
+   - Jonathan Lastra
+   - Julen Amezqueta
+   - Orluis Aular
+   - Fernando Barceló
+   - Jefferson Cepeda
+   - Jokin Murguialday Elorza
+- teamName: AG2R Citroën Team
+  cyclists:
+   - Lilian Calmejane
+   - Jaakko Hänninen
+   - Paul Lapeira
+   - Aurélien Paret-Peintre
+   - Valentin Paret-Peintre
+   - Nicolas Prodhomme
+   - Andrea Vendrame
+- teamName: Israel-Premier Tech
+  cyclists:
+   - Sebastian Berwick
+   - Patrick Bevin
+   - Alexander Cataford
+   - Simon Clarke
+   - Omer Goldstein
+   - Carl Fredrik Hagen
+   - Michael Woods
+- teamName: Groupama-FDJ
   cyclists:
    - David Gaudu
+   - Bruno Armirail
+   - Matteo Badilatti
+   - Matthieu Ladagnous
+   - Rudy Molard
+   - Sebastien Reichenbach
    - Anthony Roux
-   - Mathieu Ladagnous
-- teamName: Movistar
+- teamName: Burgos-BH
   cyclists:
-   - Enric Mas
-   - Alejandro Valverde
-   - Carlos Verona
-- teamName: Trek – Segafredo
+   - Ander Okamika
+   - Daniel Navarro
+   - Oscar Cabedo
+   - Jesus Ezquerra
+   - Adria Moreno Sala
+   - Alex Molenaar
+   - Jetse Bol
+- teamName: Trek-Segafredo
   cyclists:
-   - Bauke Mollema
-   - Juan Pedro López
-- teamName: UAE Emirates
+   - Julien Bernard
+   - Kenny Elissonde
+   - Tony Gallopin
+   - Amanuel Gebreigzabhier
+   - Juan Pedro Lopez
+   - Simon Pellaud
+   - Antwan Tolhoek
+- teamName: Euskaltel-Euskadi
   cyclists:
-   - Tadej Pogacar
-   - Rafal Majka
-   - Marc Soler
-   - Davide Formolo
-- teamName: Arkéa Samsic
+   - Xabier Azparren
+   - Antonio Soto
+   - Carlos Canal
+   - Mikel Bizkarra
+   - Mikel Iturria
+   - Gotzon Martin
+   - Ibai Azurmendi
+- teamName: Equipo Kern Pharma
   cyclists:
-   - Nairo Quintana
-   - Warren Barguil
+   - Hector Carretero
+   - José Félix Parra
+   - Jon Agirre
+   - Jaime Castrillo
+   - Jordi Lopez Caravaca
+   - Raúl García
+   - Igor Arrieta
+- teamName: EF Education-EasyPost
+  cyclists:
+   - Jonathan Caicedo
+   - Diego Camargo
+   - Odd Christian Eiking
+   - Ruben Guerreiro
+   - Merhawi Kudus
+   - Mark Padun
+   - James Shaw
