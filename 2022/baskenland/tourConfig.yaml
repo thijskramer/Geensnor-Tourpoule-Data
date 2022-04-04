@@ -4,8 +4,8 @@ status: open
 start: 2022-04-04
 maxCyclistsInUserTeam: "12"
 externalRankingLink:
-  title: touretappe.nl
-  url: https://www.touretappe.nl/ronde-van-het-baskenland-2022/
+  title: Klassement op firstcycling.com
+  url: https://firstcycling.com/race.php?r=6&y=2022
 scoring:
   - "50"
   - "40"
