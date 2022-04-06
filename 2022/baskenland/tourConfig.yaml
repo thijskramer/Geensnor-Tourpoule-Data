@@ -6,6 +6,7 @@ maxCyclistsInUserTeam: "12"
 externalRankingLink:
   title: Klassement op firstcycling.com
   url: https://firstcycling.com/race.php?r=6&y=2022&e=02
+classificationURL: https://firstcycling.com/race.php?r=6&y=2022&e=02#race
 scoring:
   - "50"
   - "40"
