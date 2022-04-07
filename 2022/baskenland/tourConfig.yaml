@@ -3,7 +3,7 @@ name: Ronde van het Baskenland 2022
 status: open
 start: 2022-04-04
 maxCyclistsInUserTeam: "12"
-widgetURL: https://firstcycling.com/widget/?r=6&y=2022&s=3&lang=NED
+widgetURL: https://firstcycling.com/widget/?r=6&y=2022&s={stageNumber}&lang=NED
 scoring:
   - "50"
   - "30"
