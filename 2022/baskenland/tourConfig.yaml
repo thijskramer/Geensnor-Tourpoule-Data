@@ -6,7 +6,7 @@ maxCyclistsInUserTeam: "12"
 widgetURL: https://firstcycling.com/widget/?r=6&y=2022&s=3&lang=NED
 scoring:
   - "50"
-  - "40"
+  - "30"
   - "20"
   - "10"
   - "5"
