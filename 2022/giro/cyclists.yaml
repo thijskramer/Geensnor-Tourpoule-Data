@@ -1,95 +1,122 @@
 ---
-- teamName: Jumbo – Visma
+- teamName: AG2R Citroën Team
   cyclists:
-    - Tom Dumoulin
-    - Koen Bouwman
-    - Sam Oomen
-    - Jos van Emden
-    - Edoardo Affini
-    - Tobias Foss
-    - Pascal Eenkhoorn
-    - Chris Harper
-- teamName: Astana Qazaqstan
+   - Clément Champoussin
+   - Felix Gall
+   - Jaakko Hänninen
+   - Nans Peters
+- teamName: Alpecin-Fenix
   cyclists:
-    - Vincenzo Nibali
-    - Miguel Ángel López
-    - David de la Cruz
-    - Joe Dombrowski
+   - Floris De Tier
+   - Jakub Mareczko
+   - Stefano Oldani
+- teamName: Astana Qazaqstan Team
+  cyclists:
+   - Valerio Conti
+   - David De La Cruz
+   - Fabio Felline
+   - Miguel Ángel López
+   - Vincenzo Nibali
 - teamName: Bahrain Victorious
   cyclists:
-    - Mikel Landa
-    - Pello Bilbao
-    - Luis León Sánchez
-- teamName: BORA – hansgrohe
+   - Pello Bilbao
+   - Mikel Landa
+   - Jonathan Milan
+- teamName: Bardiani CSF Faizanè
   cyclists:
-    - Wilco Kelderman
-    - Lennard Kämna
-    - Jai Hindley
-    - Emanuel Buchmann
-    - Matteo Fabbro
-    - Ben Zwiehoff
-    - Giovanni Aleotti
+   - Filippo Fiorelli
+   - Davide Gabburo
+   - Filippo Zana
+   - Enrico Zanoncello
+- teamName: BORA-hansgrohe
+  cyclists:
+   - Giovanni Aleotti
+   - Emanuel Buchmann
+   - Jai Hindley
+   - Lennard Kämna
 - teamName: Cofidis
   cyclists:
-    - Guillaume Martin
-    - Davide Cimolai
-    - Simone Consonni
-    - Anthony Perez
-    - Pierre-Luc Périchon
-- teamName: EF Education – Easy Post
+   - Davide Cimolai
+   - Simone Consonni
+- teamName: Drone Hopper-Androni Giocattoli
   cyclists:
-    - Hugh Carthy
-    - Alberto Bettiol
-    - Jens Keukeleire
-    - Esteban Chaves
-    - Merhawi Kudus
-- teamName: Groupama – FDJ
+   - Mattia Bais
+   - Alexander Cepeda
+   - Andrii Ponomar
+   - Eduardo Sepulveda
+   - Edoardo Zardini
+- teamName: EF Education-EasyPost
   cyclists:
-    - Arnaud Démare
-    - Attila Valter
+   - Alberto Bettiol
+   - Hugh Carthy
+- teamName: EOLO-Kometa Cycling Team
+  cyclists:
+   - Vincenzo Albanese
+   - Lorenzo Fortunato
+   - Giovanni Lonardi
+   - Diego Rosa
+- teamName: Groupama-FDJ
+  cyclists:
+   - Matteo Badilatti
+   - Attila Valter
 - teamName: INEOS Grenadiers
   cyclists:
-    - Richard Carapaz
-    - Tao Geoghegan Hart
-    - Elia Viviani
-    - Richie Porte
-    - Tom Pidcock
-    - Ben Swift
-    - Salvatore Puccio
-    - Ethan Hayter
-    - Ben Tulett
-- teamName: Israel – Premier Tech
+   - Richard Carapaz
+   - Filippo Ganna
+   - Richie Porte
+   - Pavel Sivakov
+   - Ben Tulett
+   - Elia Viviani
+- teamName: Intermarché-Wanty-Gobert
   cyclists:
-    - Alex Dowsett
-    - Giacomo Nizzolo
-    - Matthias Brändle
-    - Rick Zabel
-- teamName: Movistar
+   - Biniam Girmay
+   - Jan Hirt
+   - Domenico Pozzovivo
+   - Lorenzo Rota
+- teamName: Israel-Premier Tech
   cyclists:
-    - Alejandro Valverde
-    - Iván Sosa
-- teamName: Trek – Segafredo
+   - Matthias Brändle
+   - Alex Dowsett
+   - Giacomo Nizzolo
+- teamName: Jumbo-Visma
   cyclists:
-    - Bauke Mollema
-    - Giulio Ciccone
-    - Dario Cataldo
-    - Juan Pedro López
-    - Jon Aberasturi
-- teamName: UAE Emirates
+   - Tobias Foss
+   - Chris Harper
+   - Sam Oomen
+- teamName: Lotto Soudal
   cyclists:
-    - João Almeida
-    - Davide Formolo
-    - Diego Ulissi
-    - Rui Costa
-    - Alessandro Covi
-    - Maximiliano Richeze
-- teamName: Alpecin – Fenix
+   - Jasper De Buyst
+   - Caleb Ewan
+   - Michael Schwarzmann
+   - Rüdiger Selig
+- teamName: Movistar Team
   cyclists:
-    - Tim Merlier
-    - Stefano Oldani
-- teamName: EOLO – Kometa
+   - Antonio Pedrero
+   - Alejandro Valverde
+- teamName: Quick-Step Alpha Vinyl Team
   cyclists:
-    - Lorenzo Fortunato
-    - Márton Dina
-    - Erik Fetter
-    - Diego Rosa
+   - Andrea Bagioli
+   - Mattia Cattaneo
+- teamName: Team BikeExchange-Jayco
+  cyclists:
+   - Lawson Craddock
+   - Damien Howson
+   - Tanel Kangert
+   - Matteo Sobrero
+   - Simon Yates
+- teamName: Team DSM
+  cyclists:
+   - Thymen Arensman
+   - Romain Bardet
+   - Cees Bol
+   - Romain Combaud
+   - Alberto Dainese
+   - Nico Denz
+   - Chris Hamilton
+   - Martijn Tusveld
+- teamName: Trek-Segafredo
+  cyclists:
+   - Giulio Ciccone
+   - Bauke Mollema
+   - Jacopo Mosca
+   - Antonio Tiberi
