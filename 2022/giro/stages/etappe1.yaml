@@ -15,5 +15,8 @@ stageResults:
  - Andrea Vendrame
  - Mattias Skjelmose Jensen
 jerseyWearers:
-  De Roze Trui: Mathieu van der Poel
-  De Blauwe Trui: Mathieu van der Poel
+  - jersey: De Roze Trui
+    cyclist: Mathieu van der Poel
+  - jersey: De Blauwe Trui
+    cyclist: Mathieu van der Poel
+    
