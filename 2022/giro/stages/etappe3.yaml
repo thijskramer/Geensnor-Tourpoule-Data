@@ -1,6 +1,20 @@
 number: 3
 route: Kaposvár – Balatonfüred
 date: 2022-05-08
-status: notStarted
+status: finished
 stageResults:
+  - Mark Cavendish
+  - Arnaud Démare
+  - Fernando Gaviria
+  - Biniam Girmay
+  - Jakub Mareczko
+  - Edward Theuns
+  - Simone Consonni
+  - Caleb Ewan
+  - Alberto Dainese
+  - Phil Bauhaus
 jerseyWearers:
+  - jersey: De Roze Trui
+    cyclist: Mathieu van der Poel
+  - jersey: De Blauwe Trui
+    cyclist: Rick Zabel
