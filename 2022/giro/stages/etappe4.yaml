@@ -2,6 +2,18 @@
 number: 4
 route: Avola – Etna ⛰️
 date: 2022-05-10
-status: notStarted
+status: finished
 stageResults:
+  - Lennard Kämna
+  - Juan Pedro Lopez
+  - Rein Taaramäe
+  - Sylvain Moniquet
+  - Mauri Vansevenant
+  - Gijs Leemreize
+  - Richard Carapaz
+  - Romain Bardet
 jerseyWearers:
+  - jersey: De Roze Trui
+    cyclist: Juan Pedro Lopez
+  - jersey: De Blauwe Trui
+    cyclist: Lennard Kämna
