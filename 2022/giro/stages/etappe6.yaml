@@ -2,6 +2,21 @@
 number: 6
 route: Palmi – Scalea
 date: 2022-05-12
-status: notStarted
+status: finished
 stageResults:
+  - Arnaud Démare
+  - Caleb Ewan
+  - Mark Cavendish
+  - Biniam Girmay
+  - Giacomo Nizzolo
+  - Phil Bauhaus
+  - Andrea Vendrame
+  - Simone Consonni
+  - Vincenzo Albanese
+  - Edward Theuns
 jerseyWearers:
+  - jersey: De Roze Trui
+    cyclist: Arnaud Démare
+  - jersey: De Blauwe Trui
+    cyclist: Lennard Kämna
+
