@@ -2,6 +2,20 @@
 number: 7
 route: Diamante – Potenza
 date: 2022-05-13
-status: notStarted
+status: finished
 stageResults:
+  - Koen Bouwman
+  - Bauke Mollema
+  - Davide Formolo
+  - Tom Dumoulin
+  - Davide Villella
+  - Lennard Kämna
+  - Vincenzo Albanese
+  - Joao Almeida
+  - Alejandro Valverde
+  - Richard Carapaz
 jerseyWearers:
+  - jersey: De Roze Trui
+    cyclist: Juan Pedro Lopez
+  - jersey: De Blauwe Trui
+    cyclist: Koen Bouwman
