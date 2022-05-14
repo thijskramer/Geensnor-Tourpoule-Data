@@ -2,6 +2,20 @@
 number: 8
 route: Napels – Napels
 date: 2022-05-14
-status: notStarted
+status: finished
 stageResults:
+  - Thomas De Gendt
+  - Davide Gabburo
+  - Jorge Arcas
+  - Harm Vanhoucke
+  - Biniam Girmay
+  - Mauro Schmid
+  - Mathieu van der Poel
+  - Wout Poels
+  - Guillaume Martin
+  - Fabio Felline
 jerseyWearers:
+  - jersey: De Roze Trui
+    cyclist: Juan Pedro Lopez
+  - jersey: De Blauwe Trui
+    cyclist: Koen Bouwman
