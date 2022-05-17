@@ -2,6 +2,20 @@
 number: 10
 route: Pescara – Jesi
 date: 2022-05-17
-status: notStarted
+status: finished
 stageResults:
+  - Biniam Girmay
+  - Mathieu van der Poel
+  - Vincenzo Albanese
+  - Wilco Kelderman
+  - Richard Carapaz
+  - Koen Bouwman
+  - Romain Bardet
+  - Pello Bilbao
+  - Joao Almeida
+  - Mauro Schmid
 jerseyWearers:
+  - jersey: De Roze Trui
+    cyclist: Juan Pedro Lopez
+  - jersey: De Blauwe Trui
+    cyclist: Diego Rosa
