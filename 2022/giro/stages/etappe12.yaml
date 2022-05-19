@@ -2,6 +2,20 @@
 number: 12
 route: Parma – Genua
 date: 2022-05-19
-status: notStarted
+status: finished
 stageResults:
+  - Stefano Oldani
+  - Lorenzo Rota
+  - Gijs Leemreize
+  - Bauke Mollema
+  - Santiago Buitrago
+  - Wilco Kelderman
+  - Lucas Hamilton
+  - Andrea Vendrame
+  - Rein Taaramäe
+  - Pascal Eenkhoorn
 jerseyWearers:
+  - jersey: De Roze Trui
+    cyclist: Juan Pedro Lopez
+  - jersey: De Blauwe Trui
+    cyclist: Diego Rosa
