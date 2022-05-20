@@ -2,6 +2,20 @@
 number: 13
 route: San Remo – Cuneo
 date: 2022-05-20
-status: notStarted
+status: finished
 stageResults:
+  - Arnaud Démare
+  - Phil Bauhaus
+  - Mark Cavendish
+  - Fernando Gaviria
+  - Alberto Dainese
+  - Simone Consonni
+  - Dries De Bondt
+  - Giacomo Nizzolo
+  - Andrea Vendrame
+  - Tobias Bayer
 jerseyWearers:
+  - jersey: De Roze Trui
+    cyclist: Arnaud Démare
+  - jersey: De Blauwe Trui
+    cyclist: Diego Rosa
