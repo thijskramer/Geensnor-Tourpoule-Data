@@ -2,6 +2,20 @@
 number: 15
 route: Rivarolo Canavese – Cogne ⛰️
 date: 2022-05-22
-status: notStarted
+status: finished
 stageResults:
+  - Giulio Ciccone
+  - Santiago Buitrago
+  - Antonio Pedrero
+  - Hugh Carthy
+  - Martijn Tusveld
+  - Luca Covili
+  - Natnael Tesfazion
+  - Bauke Mollema
+  - Gijs Leemreize
+  - Guillaume Martin
 jerseyWearers:
+  - jersey: De Roze Trui
+    cyclist: Richard Carapaz
+  - jersey: De Blauwe Trui
+    cyclist: Koen Bouwman
