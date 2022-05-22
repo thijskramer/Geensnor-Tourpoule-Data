@@ -2,6 +2,20 @@
 number: 14
 route: Santena – Turijn
 date: 2022-05-21
-status: notStarted
+status: finished
 stageResults:
+  - Simon Yates
+  - Jai Hindley
+  - Richard Carapaz
+  - Vincenzo Nibali
+  - Domenico Pozzovivo
+  - Joao Almeida
+  - Mikel Landa
+  - Pello Bilbao
+  - Emanuel Buchmann
+  - Juan Pedro Lopez
 jerseyWearers:
+  - jersey: De Roze Trui
+    cyclist: Richard Carapaz
+  - jersey: De Blauwe Trui
+    cyclist: Diego Rosa
