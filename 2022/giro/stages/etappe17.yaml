@@ -2,6 +2,19 @@
 number: 17
 route: Ponte di Legno – Lavarone ⛰️
 date: 2022-05-25
-status: notStarted
+status: finished
 stageResults:
+  - Santiago Buitrago
+  - Gijs Leemreize
+  - Jan Hirt
+  - Hugh Carthy
+  - Richard Carapaz
+  - Jai Hindley
+  - Mauri Vansevenant
+  - Koen Bouwman
+  - Guillaume Martin
 jerseyWearers:
+  - jersey: De Roze Trui
+    cyclist: Richard Carapaz
+  - jersey: De Blauwe Trui
+    cyclist: Koen Bouwman
