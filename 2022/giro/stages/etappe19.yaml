@@ -2,6 +2,20 @@
 number: 19
 route: Marano Lagunare – Castelmonte
 date: 2022-05-27
-status: notStarted
+status: finished
 stageResults:
+  - Koen Bouwman
+  - Mauro Schmid
+  - Alessandro Tonelli
+  - Attila Valter
+  - Andrea Vendrame
+  - Tobias Bayer
+  - Guillaume Martin
+  - Richard Carapaz
+  - Jai Hindley
+  - Mikel Landa
 jerseyWearers:
+  - jersey: De Roze Trui
+    cyclist: Richard Carapaz
+  - jersey: De Blauwe Trui
+    cyclist: Koen Bouwman
