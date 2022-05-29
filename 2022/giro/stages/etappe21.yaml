@@ -2,6 +2,20 @@
 number: 21
 route: Verona - Verona ⏰
 date: 2022-05-29
-status: notStarted
+status: finished
 stageResults:
+  - Matteo Sobrero
+  - Thymen Arensman
+  - Mathieu van der Poel
+  - Bauke Mollema
+  - Ben Tulett
+  - Mauro Schmid
+  - Magnus Cort
+  - Tobias Foss
+  - Michael Hepburn
+  - Richard Carapaz
 jerseyWearers:
+  - jersey: De Roze Trui
+    cyclist: Jai Hindley
+  - jersey: De Blauwe Trui
+    cyclist: Koen Bouwman
