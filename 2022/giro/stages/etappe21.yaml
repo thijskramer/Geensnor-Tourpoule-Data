@@ -14,8 +14,6 @@ stageResults:
   - Tobias Foss
   - Michael Hepburn
   - Richard Carapaz
-stageResults:
-- hallo. Deze YAML is verkeerd.
 jerseyWearers:
   - jersey: De Roze Trui
     cyclist: Jai Hindley
