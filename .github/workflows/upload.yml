@@ -1,32 +1,32 @@
-on:
-  push:
-    branches:
-    - main
-name: Publish tour data
-jobs:
-  web-deploy:
-    name: 🎉 Deploy
-    runs-on: ubuntu-latest
-    steps:
-    - name: 🚚 Get latest code
-      uses: actions/checkout@v2
-    
-    - name: 📂 Sync files
-      uses: SamKirkland/FTP-Deploy-Action@4.1.0
-      with:
-        server: jorisxl2.two.axc.nl
-        username: poule@jorisxl2.two.axc.nl
-        password: ${{ secrets.ftppassword }}
-        server-dir: tourData/
-        exclude: "[**/.git*/**, readme.md]"
-        dangerous-clean-slate: true 
+# on:
+#   push:
+#     branches:
+#     - main
+# name: Publish tour data
+# jobs:
+#   web-deploy:
+#     name: 🎉 Deploy
+#     runs-on: ubuntu-latest
+#     steps:
+#     - name: 🚚 Get latest code
+#       uses: actions/checkout@v2
 
-  http-request:
-    needs: web-deploy
-    runs-on: ubuntu-latest
-    steps:
-    - name: Make HTTP request
-      uses: fjogeleit/http-request-action@master
-      with:
-        url: ${{ secrets.httprequesturl }}
-        method: 'GET'
+#     - name: 📂 Sync files
+#       uses: SamKirkland/FTP-Deploy-Action@4.1.0
+#       with:
+#         server: jorisxl2.two.axc.nl
+#         username: poule@jorisxl2.two.axc.nl
+#         password: ${{ secrets.ftppassword }}
+#         server-dir: tourData/
+#         exclude: "[**/.git*/**, readme.md]"
+#         dangerous-clean-slate: true
+
+#   http-request:
+#     needs: web-deploy
+#     runs-on: ubuntu-latest
+#     steps:
+#     - name: Make HTTP request
+#       uses: fjogeleit/http-request-action@master
+#       with:
+#         url: ${{ secrets.httprequesturl }}
+#         method: 'GET'
