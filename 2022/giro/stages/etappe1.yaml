@@ -4,19 +4,18 @@ route: Boedapest – Visegrád
 date: 2022-05-06
 status: finished
 stageResults:
- - Mathieu van der Poel
- - Biniam Girmay
- - Pello Bilbao
- - Magnus Cort
- - Wilco Kelderman
- - Richard Carapaz
- - Bauke Mollema
- - Diego Ulissi
- - Andrea Vendrame
- - Mattias Skjelmose Jensen
+  - Mathieu van der Poel
+  - Biniam Girmay
+  - Pello Bilbao
+  - Magnus Cort
+  - Wilco Kelderman
+  - Richard Carapaz
+  - Bauke Mollema
+  - Diego Ulissi
+  - Andrea Vendrame
+  - Mattias Skjelmose Jensen
 jerseyWearers:
   - jersey: De Roze Trui
     cyclist: Mathieu van der Poel
   - jersey: De Blauwe Trui
     cyclist: Mathieu van der Poel
-    
