@@ -5,7 +5,7 @@ on: [push, pull_request]
 jobs:
   lint:
     # Name the Job
-    name: Lint Code Base
+    name: 🕵️‍♂️ Lint Code Base
     # Set the agent to run on
     runs-on: ubuntu-latest
     steps:
@@ -39,6 +39,7 @@ jobs:
           dangerous-clean-slate: true
 
   http-request:
+    name: 🫰 HTTP Request
     needs: web-deploy
     runs-on: ubuntu-latest
     steps:
