@@ -2,9 +2,7 @@
 
 ## Algemeen
 
-- In currentTour.yaml wordt de locatie van de huidige tour bepaald.
-
--
+- In currentTour.yaml wordt de locatie van de huidige tour bepaald. De tour waar naar wordt verwezen, moet een tourConfig.yaml en minimaal 1 etappe hebben om alles goed te laten werken.
 
 ## Per tour
 
