@@ -4,11 +4,19 @@
 
 - In currentTour.yaml wordt de locatie van de huidige tour bepaald.
 
+-
+
 ## Per tour
 
 - cyclists.yaml voor alle ploegen en renners die starten aan aan de tour. [Hier](http://geensnor.nl/tourtool/) staat een tool die je kan helpen met renners in het juiste formaat te zetten.
 - tourConfig.yaml om een aantal tour specifieke variabelen vast te leggen.
+- Tour is voorbij als de laatste etappe de status "finished" heeft.
+
+## Per etappe
+
 - Elke etappe heeft een eigen yaml bestand in de stages directory waarin de uitslag en een aantal andere variabelen worden vastgelegd.
+- Etappe is pas zichtbaar als de status "finished" heeft.
+- De [eerder genoemde tool](http://geensnor.nl/tourtool/) kan ook lijsten renners van een etappe scrapen.
 
 ## Let op
 
