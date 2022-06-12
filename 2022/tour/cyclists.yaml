@@ -1,0 +1,200 @@
+---
+- teamName: AG2R Citroën Team
+  cyclists:
+    - Geoffrey Bouchard
+    - Benoît Cosnefroy
+    - Bob Jungels
+    - Oliver Naesen
+    - Ben O'Connor
+    - Aurélien Paret-Peintre
+    - Greg Van Avermaet
+- teamName: Alpecin-Fenix
+  cyclists:
+    - Silvan Dillier
+    - Michael Gogl
+    - Xandro Meurisse
+    - Jasper Philipsen
+    - Robert Stannard
+    - Mathieu van der Poel
+    - Guillaume Van Keirsbulck
+    - Gianni Vermeersch
+- teamName: Astana Qazaqstan Team
+  cyclists:
+    - Samuele Battistella
+    - Alexey Lutsenko
+    - Gianni Moscon
+    - Javier Romo
+    - Simone Velasco
+- teamName: B&B Hotels-KTM
+  cyclists:
+    - Franck Bonnamour
+    - Alexis Gougeard
+    - Jonathan Hivert
+    - Luca Mozzato
+    - Pierre Rolland
+    - Sebastian Schönberger
+- teamName: Bahrain Victorious
+  cyclists:
+    - Damiano Caruso
+    - Jack Haig
+    - Matej Mohoric
+    - Gino Mäder
+    - Hermann Pernsteiner
+    - Dylan Teuns
+    - Fred Wright
+- teamName: BORA-hansgrohe
+  cyclists:
+    - Shane Archbold
+    - Sam Bennett
+    - Felix Großschartner
+    - Marco Haller
+    - Patrick Konrad
+    - Ryan Mullen
+    - Nils Politt
+    - Maximilian Schachmann
+    - Danny van Poppel
+    - Aleksandr Vlasov
+- teamName: Cofidis
+  cyclists:
+    - Bryan Coquard
+    - Simon Geschke
+    - Jesus Herrada
+    - Victor Lafay
+    - Guillaume Martin
+    - Benjamin Thomas
+- teamName: EF Education-EasyPost
+  cyclists:
+    - Stefan Bissegger
+    - Esteban Chaves
+    - Magnus Cort
+    - Ruben Guerreiro
+    - Neilson Powless
+    - Jonas Rutsch
+    - Rigoberto Uran
+    - Michael Valgren
+- teamName: Groupama-FDJ
+  cyclists:
+    - Bruno Armirail
+    - David Gaudu
+    - Kevin Geniets
+    - Stefan Küng
+    - Valentin Madouas
+    - Thibaut Pinot
+    - Sebastien Reichenbach
+    - Michael Storer
+- teamName: INEOS Grenadiers
+  cyclists:
+    - Filippo Ganna
+    - Michal Kwiatkowski
+    - Daniel Martinez
+    - Tom Pidcock
+    - Geraint Thomas
+    - Dylan van Baarle
+    - Adam Yates
+- teamName: Intermarché-Wanty-Gobert
+  cyclists:
+    - Jan Bakelants
+    - Kobe Goossens
+    - Quinten Hermans
+    - Alexander Kristoff
+    - Louis Meintjes
+    - Andrea Pasqualon
+    - Adrien Petit
+    - Taco van der Hoorn
+    - Georg Zimmermann
+- teamName: Israel-Premier Tech
+  cyclists:
+    - Rudy Barbier
+    - Jakob Fuglsang
+    - Carl Fredrik Hagen
+    - Hugo Houle
+    - Michael Woods
+    - Mads Würtz Schmidt
+- teamName: Jumbo-Visma
+  cyclists:
+    - Tiesj Benoot
+    - Rohan Dennis
+    - Steven Kruijswijk
+    - Sepp Kuss
+    - Christophe Laporte
+    - Primoz Roglic
+    - Timo Roosen
+    - Mike Teunissen
+    - Wout van Aert
+    - Nathan Van Hooydonck
+    - Jonas Vingegaard
+- teamName: Lotto Soudal
+  cyclists:
+    - Jasper De Buyst
+    - Caleb Ewan
+    - Andreas Kron
+    - Brent Van Moer
+    - Tim Wellens
+- teamName: Movistar Team
+  cyclists:
+    - Imanol Erviti
+    - Gorka Izagirre
+    - Matteo Jorgenson
+    - Enric Mas
+    - Nelson Oliveira
+    - Carlos Verona
+- teamName: Quick-Step Alpha Vinyl Team
+  cyclists:
+    - Julian Alaphilippe
+    - Kasper Asgreen
+    - Remi Cavagna
+    - Tim Declercq
+    - Mikkel Honore
+    - Fabio Jakobsen
+    - Yves Lampaert
+    - Michael Mørkøv
+    - Florian Sénéchal
+- teamName: Team Arkéa-Samsic
+  cyclists:
+    - Warren Barguil
+    - Amaury Capiot
+    - Matis Louvel
+    - Nairo Quintana
+    - Connor Swift
+- teamName: Team BikeExchange-Jayco
+  cyclists:
+    - Dylan Groenewegen
+    - Michael Matthews
+    - Luka Mezgec
+    - Simon Yates
+- teamName: Team DSM
+  cyclists:
+    - Søren Kragh Andersen
+    - Nikias Arndt
+    - Romain Bardet
+    - John Degenkolb
+    - Mark Donovan
+    - Nils Eekhoff
+- teamName: TotalEnergies
+  cyclists:
+    - Edvald Boasson-Hagen
+    - Maciej Bodnar
+    - Mathieu Burgaudeau
+    - Fabien Doubey
+    - Valentin Ferron
+    - Daniel Oss
+    - Peter Sagan
+    - Juraj Sagan
+    - Anthony Turgis
+    - Alexis Vuillermoz
+- teamName: Trek-Segafredo
+  cyclists:
+    - Mads Pedersen
+    - Quinn Simmons
+    - Jasper Stuyven
+    - Antwan Tolhoek
+- teamName: UAE Team Emirates
+  cyclists:
+    - George Bennett
+    - Mikkel Bjerg
+    - Marc Hirschi
+    - Rafal Majka
+    - Brandon McNulty
+    - Tadej Pogacar
+    - Marc Soler
+    - Matteo Trentin
