@@ -36,9 +36,9 @@ jobs:
           password: ${{ secrets.ftppassword }}
           server-dir: tourData/
           exclude: |
-            **/.git*
-            **/.git*/**
-            **/2021/**
+            /.git*
+            .git*/**
+            /2021/**
             readme.md
           dangerous-clean-slate: true
 
