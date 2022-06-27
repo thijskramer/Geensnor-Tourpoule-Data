@@ -2,12 +2,13 @@
 - teamName: AG2R Citroën Team
   cyclists:
     - Geoffrey Bouchard
+    - Mikaël Chérel
     - Benoît Cosnefroy
+    - Stan Dewulf
     - Bob Jungels
     - Oliver Naesen
     - Ben O'Connor
     - Aurélien Paret-Peintre
-    - Greg Van Avermaet
 - teamName: Alpecin-Fenix
   cyclists:
     - Silvan Dillier
@@ -36,11 +37,12 @@
 - teamName: Bahrain Victorious
   cyclists:
     - Damiano Caruso
+    - Kamil Gradek
     - Jack Haig
     - Matej Mohoric
-    - Gino Mäder
-    - Hermann Pernsteiner
+    - Luis León Sánchez
     - Dylan Teuns
+    - Jan Tratnik
     - Fred Wright
 - teamName: BORA-hansgrohe
   cyclists:
@@ -49,6 +51,7 @@
     - Felix Großschartner
     - Marco Haller
     - Patrick Konrad
+    - Lennard Kämna
     - Ryan Mullen
     - Nils Politt
     - Maximilian Schachmann
@@ -71,16 +74,15 @@
     - Neilson Powless
     - Jonas Rutsch
     - Rigoberto Uran
-    - Michael Valgren
 - teamName: Groupama-FDJ
   cyclists:
-    - Bruno Armirail
+    - Antoine Duchesne
     - David Gaudu
     - Kevin Geniets
     - Stefan Küng
+    - Olivier Le Gac
     - Valentin Madouas
     - Thibaut Pinot
-    - Sebastien Reichenbach
     - Michael Storer
 - teamName: INEOS Grenadiers
   cyclists:
@@ -104,31 +106,33 @@
     - Georg Zimmermann
 - teamName: Israel-Premier Tech
   cyclists:
-    - Rudy Barbier
+    - Simon Clarke
+    - Chris Froome
     - Jakob Fuglsang
-    - Carl Fredrik Hagen
+    - Omer Goldstein
     - Hugo Houle
+    - Daryl Impey
+    - Krists Neilands
     - Michael Woods
-    - Mads Würtz Schmidt
 - teamName: Jumbo-Visma
   cyclists:
     - Tiesj Benoot
-    - Rohan Dennis
     - Steven Kruijswijk
     - Sepp Kuss
     - Christophe Laporte
     - Primoz Roglic
-    - Timo Roosen
-    - Mike Teunissen
     - Wout van Aert
     - Nathan Van Hooydonck
     - Jonas Vingegaard
 - teamName: Lotto Soudal
   cyclists:
-    - Jasper De Buyst
     - Caleb Ewan
+    - Frederik Frison
+    - Philippe Gilbert
+    - Reinardt Janse Van Rensburg
     - Andreas Kron
     - Brent Van Moer
+    - Florian Vermeersch
     - Tim Wellens
 - teamName: Movistar Team
   cyclists:
@@ -153,30 +157,37 @@
   cyclists:
     - Warren Barguil
     - Amaury Capiot
+    - Thibault Guernalec
     - Matis Louvel
     - Nairo Quintana
     - Connor Swift
 - teamName: Team BikeExchange-Jayco
   cyclists:
+    - Jack Bauer
+    - Luke Durbridge
     - Dylan Groenewegen
+    - Amund Grøndahl Jansen
+    - Christopher Juul-Jensen
     - Michael Matthews
     - Luka Mezgec
-    - Simon Yates
+    - Nick Schultz
 - teamName: Team DSM
   cyclists:
-    - Søren Kragh Andersen
-    - Nikias Arndt
     - Romain Bardet
+    - Alberto Dainese
     - John Degenkolb
-    - Mark Donovan
     - Nils Eekhoff
+    - Chris Hamilton
+    - Andreas Leknessund
+    - Martijn Tusveld
+    - Kevin Vermaerke
 - teamName: TotalEnergies
   cyclists:
     - Edvald Boasson-Hagen
-    - Maciej Bodnar
     - Mathieu Burgaudeau
     - Fabien Doubey
     - Valentin Ferron
+    - Pierre Latour
     - Daniel Oss
     - Peter Sagan
     - Juraj Sagan
@@ -184,15 +195,19 @@
     - Alexis Vuillermoz
 - teamName: Trek-Segafredo
   cyclists:
+    - Giulio Ciccone
+    - Tony Gallopin
+    - Alex Kirsch
+    - Bauke Mollema
     - Mads Pedersen
     - Quinn Simmons
+    - Toms Skujins
     - Jasper Stuyven
-    - Antwan Tolhoek
 - teamName: UAE Team Emirates
   cyclists:
     - George Bennett
     - Mikkel Bjerg
-    - Marc Hirschi
+    - Vegard Stake Laengen
     - Rafal Majka
     - Brandon McNulty
     - Tadej Pogacar
