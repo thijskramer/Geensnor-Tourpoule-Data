@@ -13,24 +13,29 @@
   cyclists:
     - Silvan Dillier
     - Michael Gogl
-    - Xandro Meurisse
+    - Alexander Krieger
     - Jasper Philipsen
-    - Robert Stannard
+    - Edward Planckaert
+    - Kristian Sbaragli
     - Mathieu van der Poel
     - Guillaume Van Keirsbulck
-    - Gianni Vermeersch
 - teamName: Astana Qazaqstan Team
   cyclists:
     - Samuele Battistella
+    - Joe Dombrowski
+    - Fabio Felline
+    - Dmitriy Gruzdev
     - Alexey Lutsenko
     - Gianni Moscon
-    - Javier Romo
     - Simone Velasco
+    - Andrey Zeits
 - teamName: B&B Hotels-KTM
   cyclists:
+    - Cyril Barthe
     - Franck Bonnamour
     - Alexis Gougeard
-    - Jonathan Hivert
+    - Jérémy Lecroq
+    - Cyril Lemoine
     - Luca Mozzato
     - Pierre Rolland
     - Sebastian Schönberger
@@ -46,13 +51,10 @@
     - Fred Wright
 - teamName: BORA-hansgrohe
   cyclists:
-    - Shane Archbold
-    - Sam Bennett
     - Felix Großschartner
     - Marco Haller
     - Patrick Konrad
     - Lennard Kämna
-    - Ryan Mullen
     - Nils Politt
     - Maximilian Schachmann
     - Danny van Poppel
@@ -61,10 +63,12 @@
   cyclists:
     - Bryan Coquard
     - Simon Geschke
-    - Jesus Herrada
+    - Ion Izagirre
     - Victor Lafay
     - Guillaume Martin
+    - Anthony Perez
     - Benjamin Thomas
+    - Max Walscheid
 - teamName: EF Education-EasyPost
   cyclists:
     - Stefan Bissegger
@@ -86,18 +90,18 @@
     - Michael Storer
 - teamName: INEOS Grenadiers
   cyclists:
+    - Jonathan Castroviejo
     - Filippo Ganna
-    - Michal Kwiatkowski
     - Daniel Martinez
     - Tom Pidcock
+    - Luke Rowe
     - Geraint Thomas
     - Dylan van Baarle
     - Adam Yates
 - teamName: Intermarché-Wanty-Gobert
   cyclists:
-    - Jan Bakelants
+    - Sven Erik Bystrøm
     - Kobe Goossens
-    - Quinten Hermans
     - Alexander Kristoff
     - Louis Meintjes
     - Andrea Pasqualon
@@ -140,13 +144,15 @@
     - Gorka Izagirre
     - Matteo Jorgenson
     - Enric Mas
+    - Gregor Muhlberger
     - Nelson Oliveira
+    - Albert Torres
     - Carlos Verona
 - teamName: Quick-Step Alpha Vinyl Team
   cyclists:
     - Kasper Asgreen
-    - Remi Cavagna
-    - Tim Declercq
+    - Andrea Bagioli
+    - Mattia Cattaneo
     - Mikkel Honore
     - Fabio Jakobsen
     - Yves Lampaert
@@ -155,9 +161,11 @@
 - teamName: Team Arkéa-Samsic
   cyclists:
     - Warren Barguil
+    - Maxime Bouet
     - Amaury Capiot
-    - Thibault Guernalec
+    - Hugo Hofstetter
     - Matis Louvel
+    - Lukasz Owsian
     - Nairo Quintana
     - Connor Swift
 - teamName: Team BikeExchange-Jayco
@@ -183,13 +191,11 @@
 - teamName: TotalEnergies
   cyclists:
     - Edvald Boasson-Hagen
+    - Maciej Bodnar
     - Mathieu Burgaudeau
-    - Fabien Doubey
-    - Valentin Ferron
     - Pierre Latour
     - Daniel Oss
     - Peter Sagan
-    - Juraj Sagan
     - Anthony Turgis
     - Alexis Vuillermoz
 - teamName: Trek-Segafredo
