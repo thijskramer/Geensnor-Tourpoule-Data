@@ -4,11 +4,11 @@
     - Tadej Pogacar
     - George Bennett
     - Mikkel Bjerg
-    - Marc Hirschi
     - Vegard Stake Laengen
     - Rafal Majka
     - Brandon McNulty
     - Marc Soler
+    - Marc Hirschi
 - teamName: Jumbo-Visma
   cyclists:
     - Primoz Roglic
@@ -22,9 +22,9 @@
 - teamName: INEOS Grenadiers
   cyclists:
     - Geraint Thomas
+    - Daniel Martinez
     - Jonathan Castroviejo
     - Filippo Ganna
-    - Daniel Martinez
     - Tom Pidcock
     - Luke Rowe
     - Dylan van Baarle
@@ -72,7 +72,7 @@
 - teamName: Cofidis
   cyclists:
     - Guillaume Martin
-    - Bryan Coquard
+    - Pierre-Luc Périchon
     - Simon Geschke
     - Ion Izagirre
     - Victor Lafay
@@ -99,7 +99,7 @@
     - Valentin Madouas
     - Thibaut Pinot
     - Michael Storer
-- teamName: Alpecin-Fenix
+- teamName: Alpecin-Deceuninck
   cyclists:
     - Mathieu van der Poel
     - Silvan Dillier
@@ -195,8 +195,8 @@
     - Guillaume Boivin
     - Simon Clarke
     - Jakob Fuglsang
+    - Guy Niv
     - Hugo Houle
-    - Daryl Impey
     - Krists Neilands
     - Michael Woods
 - teamName: Team BikeExchange-Jayco
