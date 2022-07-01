@@ -9,6 +9,7 @@
 - cyclists.yaml voor alle ploegen en renners die starten aan aan de tour. [Hier](http://geensnor.nl/tourtool/) staat een tool die je kan helpen met renners in het juiste formaat te zetten.
 - tourConfig.yaml om een aantal tour specifieke variabelen vast te leggen.
 - Tour is voorbij als de laatste etappe de status "finished" heeft.
+- dropouts.yaml om de uitgevallen renners in vast te leggen.
 
 ## Per etappe
 
