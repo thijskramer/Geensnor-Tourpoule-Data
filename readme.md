@@ -14,7 +14,7 @@
 ## Per etappe
 
 - Elke etappe heeft een eigen yaml bestand in de stages directory waarin de uitslag en een aantal andere variabelen worden vastgelegd.
-- Etappe is pas zichtbaar als de status "finished" heeft.
+- Etappe is is altijd zichbaar in de tour. Als hij de status "finished" heeft, worden de uitslagen meegeteld en krijgt in in de tourpoule een finishvlag.
 - De [eerder genoemde tool](http://geensnor.nl/tourtool/) kan ook lijsten renners van een etappe scrapen.
 
 ## Let op
