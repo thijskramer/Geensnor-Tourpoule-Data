@@ -2,6 +2,18 @@
 number: 1
 route: Kopenhagen – Kopenhagen ⏰
 date: 2022-07-01
-status: notStarted
+status: finished
 stageResults:
+  - Yves Lampaert
+  - Wout van Aert
+  - Tadej Pogacar
+  - Filippo Ganna
+  - Mathieu van der Poel
+  - Mads Pedersen
+  - Jonas Vingegaard
+  - Primoz Roglic
+  - Bauke Mollema
+  - Dylan Teuns
 jerseyWearers:
+  - jersey: De Gele Trui
+    cyclist: Yves Lampaert
