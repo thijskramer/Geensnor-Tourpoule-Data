@@ -2,6 +2,19 @@
 number: 3
 route: Vejle – Sønderborg
 date: 2022-07-03
-status: notStarted
+status: finished
 stageResults:
+  - Dylan Groenewegen
+  - Wout van Aert
+  - Jasper Philipsen
+  - Peter Sagan
+  - Fabio Jakobsen
+  - Christophe Laporte
+  - Alberto Dainese
+  - Hugo Hofstetter
+  - Caleb Ewan
 jerseyWearers:
+  - jersey: De Gele Trui
+    cyclist: Wout van Aert
+  - jersey: De Bolletjes Trui
+    cyclist: Magnus Cort
