@@ -2,6 +2,19 @@
 number: 4
 route: Duinkerke – Calais
 date: 2022-07-05
-status: notStarted
+status: finished
 stageResults:
+  - Wout van Aert
+  - Jasper Philipsen
+  - Christophe Laporte
+  - Alexander Kristoff
+  - Peter Sagan
+  - Luca Mozzato
+  - Danny van Poppel
+  - Hugo Hofstetter
+  - Michael Matthews
 jerseyWearers:
+  - jersey: De Gele Trui
+    cyclist: Wout van Aert
+  - jersey: De Bolletjes Trui
+    cyclist: Magnus Cort
