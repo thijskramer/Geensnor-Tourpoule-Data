@@ -2,6 +2,19 @@
 number: 5
 route: Lille – Arenberg
 date: 2022-07-06
-status: notStarted
+status: finished
 stageResults:
+  - Simon Clarke
+  - Taco van der Hoorn
+  - Edvald Boasson-Hagen
+  - Neilson Powless
+  - Magnus Cort
+  - Jasper Stuyven
+  - Tadej Pogacar
+  - Jasper Philipsen
+  - Fabio Jakobsen
 jerseyWearers:
+  - jersey: De Gele Trui
+    cyclist: Wout van Aert
+  - jersey: De Bolletjes Trui
+    cyclist: Magnus Cort
