@@ -2,6 +2,19 @@
 number: 6
 route: Binche – Longwy
 date: 2022-07-07
-status: notStarted
+status: finished
 stageResults:
+  - Tadej Pogacar
+  - Michael Matthews
+  - David Gaudu
+  - Tom Pidcock
+  - Nairo Quintana
+  - Dylan Teuns
+  - Jonas Vingegaard
+  - Daniel Martinez
+  - Primoz Roglic
 jerseyWearers:
+  - jersey: De Gele Trui
+    cyclist: Tadej Pogacar
+  - jersey: De Bolletjes Trui
+    cyclist: Magnus Cort
