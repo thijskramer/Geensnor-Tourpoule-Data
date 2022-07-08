@@ -2,6 +2,19 @@
 number: 7
 route: Tomblaine – La Planche des Belles Filles ⛰️
 date: 2022-07-08
-status: notStarted
+status: finished
 stageResults:
+  - Tadej Pogacar
+  - Jonas Vingegaard
+  - Primoz Roglic
+  - Lennard Kämna
+  - Geraint Thomas
+  - David Gaudu
+  - Enric Mas
+  - Romain Bardet
+  - Adam Yates
 jerseyWearers:
+  - jersey: De Gele Trui
+    cyclist: Tadej Pogacar
+  - jersey: De Bolletjes Trui
+    cyclist: Magnus Cort
