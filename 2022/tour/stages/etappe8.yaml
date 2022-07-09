@@ -2,6 +2,19 @@
 number: 8
 route: Dole – Lausanne
 date: 2022-07-09
-status: notStarted
+status: finished
 stageResults:
+  - Wout van Aert
+  - Michael Matthews
+  - Tadej Pogacar
+  - Andreas Kron
+  - Alberto Bettiol
+  - Aleksandr Vlasov
+  - Benjamin Thomas
+  - Jonas Vingegaard
+  - Bob Jungels
 jerseyWearers:
+  - jersey: De Gele Trui
+    cyclist: Tadej Pogacar
+  - jersey: De Bolletjes Trui
+    cyclist: Magnus Cort
