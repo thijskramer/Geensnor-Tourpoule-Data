@@ -2,6 +2,19 @@
 number: 9
 route: Aigle – Châtel ⛰️
 date: 2022-07-10
-status: notStarted
+status: finished
 stageResults:
+  - Bob Jungels
+  - Jonathan Castroviejo
+  - Carlos Verona
+  - Thibaut Pinot
+  - Tadej Pogacar
+  - Jonas Vingegaard
+  - Geraint Thomas
+  - Adam Yates
+  - Enric Mas
 jerseyWearers:
+  - jersey: De Gele Trui
+    cyclist: Tadej Pogacar
+  - jersey: De Bolletjes Trui
+    cyclist: Simon Geschke
