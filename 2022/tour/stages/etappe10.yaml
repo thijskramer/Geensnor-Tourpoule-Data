@@ -2,6 +2,19 @@
 number: 10
 route: Morzine – Megève
 date: 2022-07-12
-status: notStarted
+status: finished
 stageResults:
+  - Magnus Cort
+  - Nick Schultz
+  - Luis León Sánchez
+  - Matteo Jorgenson
+  - Dylan van Baarle
+  - Georg Zimmermann
+  - Benjamin Thomas
+  - Andreas Leknessund
+  - Fred Wright
 jerseyWearers:
+  - jersey: De Gele Trui
+    cyclist: Tadej Pogacar
+  - jersey: De Bolletjes Trui
+    cyclist: Simon Geschke
