@@ -2,6 +2,19 @@
 number: 11
 route: Albertville – Col du Granon ⛰️
 date: 2022-07-13
-status: notStarted
+status: finished
 stageResults:
+  - Jonas Vingegaard
+  - Nairo Quintana
+  - Romain Bardet
+  - Geraint Thomas
+  - David Gaudu
+  - Adam Yates
+  - Tadej Pogacar
+  - Alexey Lutsenko
+  - Steven Kruijswijk
 jerseyWearers:
+  - jersey: De Gele Trui
+    cyclist: Jonas Vingegaard
+  - jersey: De Bolletjes Trui
+    cyclist: Simon Geschke
