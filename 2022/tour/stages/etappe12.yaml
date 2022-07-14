@@ -2,6 +2,19 @@
 number: 12
 route: Briançon – Alpe d’Huez ⛰️
 date: 2022-07-14
-status: notStarted
+status: finished
 stageResults:
+  - Tom Pidcock
+  - Louis Meintjes
+  - Chris Froome
+  - Neilson Powless
+  - Tadej Pogacar
+  - Jonas Vingegaard
+  - Geraint Thomas
+  - Enric Mas
+  - Sepp Kuss
 jerseyWearers:
+  - jersey: De Gele Trui
+    cyclist: Jonas Vingegaard
+  - jersey: De Bolletjes Trui
+    cyclist: Simon Geschke
