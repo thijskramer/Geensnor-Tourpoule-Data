@@ -2,6 +2,19 @@
 number: 13
 route: Bourg d’Oisans – Saint-Étienne
 date: 2022-07-15
-status: notStarted
+status: finished
 stageResults:
+  - Mads Pedersen
+  - Fred Wright
+  - Hugo Houle
+  - Stefan Küng
+  - Matteo Jorgenson
+  - Filippo Ganna
+  - Wout van Aert
+  - Florian Sénéchal
+  - Luca Mozzato
 jerseyWearers:
+  - jersey: De Gele Trui
+    cyclist: Jonas Vingegaard
+  - jersey: De Bolletjes Trui
+    cyclist: Simon Geschke
