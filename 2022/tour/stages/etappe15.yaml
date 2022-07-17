@@ -2,6 +2,19 @@
 number: 15
 route: Rodez – Carcassonne
 date: 2022-07-17
-status: notStarted
+status: finished
 stageResults:
+  - Jasper Philipsen
+  - Wout van Aert
+  - Mads Pedersen
+  - Peter Sagan
+  - Danny van Poppel
+  - Dylan Groenewegen
+  - Florian Sénéchal
+  - Luca Mozzato
+  - Andrea Pasqualon
 jerseyWearers:
+  - jersey: De Gele Trui
+    cyclist: Jonas Vingegaard
+  - jersey: De Bolletjes Trui
+    cyclist: Simon Geschke
