@@ -6,16 +6,17 @@
 
 ## Per tour
 
-- cyclists.yaml voor alle ploegen en renners die starten aan aan de tour. [Hier](http://geensnor.nl/tourtool/) staat een tool die je kan helpen met renners in het juiste formaat te zetten.
+- cyclists.yaml voor alle ploegen en renners die starten aan aan de tour. De [Tourtool](http://geensnor.nl/tourtool/) kan je helpen met renners in het juiste formaat te zetten.
 - tourConfig.yaml om een aantal tour specifieke variabelen vast te leggen. Als status "open" is, kunnen deelnemers zich inschrijven.
 - Tour is voorbij als de laatste etappe de status "finished" heeft.
+- Voordat de tour begint kan de [Stages Scraper](https://github.com/geensnor/Stages-Scraper) gebruikt worden om alle etappes van een tour op te halen. Deze tool maakt alle yaml bestanden voor de etappes aan.
 - dropouts.yaml om de uitgevallen renners in vast te leggen.
 
 ## Per etappe
 
 - Elke etappe heeft een eigen yaml bestand in de stages directory waarin de uitslag en een aantal andere variabelen worden vastgelegd.
-- Etappe is is altijd zichbaar in de tour. Als hij de status "finished" heeft, worden de uitslagen meegeteld en krijgt in in de tourpoule een finishvlag.
-- De [eerder genoemde tool](http://geensnor.nl/tourtool/) kan ook lijsten renners van een etappe scrapen.
+- Etappe is is altijd zichbaar in de tour en moet dus ook voor de start zijn opgevoerd. Als hij de status "finished" heeft, worden de uitslagen meegeteld en krijgt in in de tourpoule een finishvlag.
+- De [Tourtool](http://geensnor.nl/tourtool/) ook de winnaars van een etappe scrapen.
 
 ## Let op
 
