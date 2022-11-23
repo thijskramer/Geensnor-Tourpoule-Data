@@ -1,0 +1,19 @@
+---
+name: Giro d’Italia 2023
+status: closed
+maxCyclistsInUserTeam: 12
+widgetURL:
+jerseys:
+  De Roze Trui: 10
+  De Blauwe Trui: 5
+scoring:
+  - 30
+  - 15
+  - 12
+  - 9
+  - 8
+  - 7
+  - 6
+  - 5
+  - 4
+  - 3
