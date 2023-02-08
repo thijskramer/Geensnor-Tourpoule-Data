@@ -1,0 +1,24 @@
+{
+  "name": "geensnor-tourpoule-data",
+  "version": "1.0.0",
+  "description": "Data bestanden voor tourspel",
+  "main": "index.js",
+  "devDependencies": {
+    "husky": "^8.0.0",
+    "prettier": "2.8.4"
+  },
+  "scripts": {
+    "test": "prettier --write .",
+    "prepare": "husky install"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/geensnor/Geensnor-Tourpoule-Data.git"
+  },
+  "author": "Geensnor",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/geensnor/Geensnor-Tourpoule-Data/issues"
+  },
+  "homepage": "https://github.com/geensnor/Geensnor-Tourpoule-Data#readme"
+}
