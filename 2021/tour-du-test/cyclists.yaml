@@ -50,7 +50,7 @@
     - Dries Devenyns
     - Michael Mørkøv
 - teamName: Movistar
-  cyclists:  
+  cyclists:
     - Miguel Ángel López
     - Jorge Ercas
     - Imanol Erviti
@@ -60,7 +60,7 @@
     - Alejandro Valverde
     - Carlos Verona
 - teamName: BORA – hansgrohe
-  cyclists: 
+  cyclists:
     - Peter Sagan
     - Emanuel Buchmann
     - Wilco Kelderman
@@ -70,7 +70,7 @@
     - Lukas Pöstlberger
     - Ide Schelling
 - teamName: Groupama – FDJ
-  cyclists:   
+  cyclists:
     - David Gaudu
     - Bruno Armirail
     - Arnaud Démare
@@ -80,7 +80,7 @@
     - Valentin Madouas
     - Miles Scotson
 - teamName: Cofidis
-  cyclists:   
+  cyclists:
     - Guillaume Martin
     - Rubén Fernández
     - Simon Geschke
@@ -90,7 +90,7 @@
     - Pierre-Luc Périchon
     - Jelle Wallays
 - teamName: Alpecin-Fenix
-  cyclists:     
+  cyclists:
     - Mathieu van der Poel
     - Silvan Dillier
     - Tim Merlier
@@ -100,7 +100,7 @@
     - Kristian Sbaragli
     - Petr Vakoc
 - teamName: EF Education – Nippo
-  cyclists:   
+  cyclists:
     - Rigoberto Uran
     - Stefan Bissegger
     - Ruben Guerreiro
@@ -110,7 +110,7 @@
     - Neilson Powless
     - Jonas Rutsch
 - teamName: AG2R Citroën
-  cyclists: 
+  cyclists:
     - Benoît Cosnefroy
     - Dorian Godon
     - Oliver Naesen
