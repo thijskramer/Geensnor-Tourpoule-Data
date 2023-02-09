@@ -1,1 +1,86 @@
 ---
+- teamName: Jumbo – Visma
+  cyclists:
+   - Primoz Roglic
+   - Wilco Kelderman
+   - Robert Gesink
+   - Tobias Foss
+   - Koen Bouwman
+   - Jan Tratnik
+   - Michel Hessmann
+   - Edoardo Affini
+- teamName: Soudal – QuickStep
+  cyclists:
+   - Remco Evenepoel
+   - Yves Lampaert
+   - Ilan Van Wilder
+   - Jan Hirt
+   - Pieter Serry
+   - Davide Ballerini
+   - Mattia Cattaneo
+   - Fausto Masnada
+- teamName: Team DSM
+  cyclists:
+   - Patrick Bevin
+   - Harm Vanhoucke
+   - Henri Vandenabeele
+   - Andreas Leknessund
+- teamName: Astana Qazaqstan Team
+  cyclists:
+   - Gianni Moscon
+   - Joe Dombrowski
+   - Simone Velasco
+   - Harold Tejada
+- teamName: Bahrain Victorious
+  cyclists:
+   - Damiano Caruso
+   - Gino Mäder
+   - Jack Haig
+   - Edoardo Zambanini
+   - Santiago Buitrago
+- teamName: BORA – hansgrohe
+  cyclists:
+   - Aleksandr Vlasov
+   - Lennard Kämna
+   - Bob Jungels
+   - Matteo Fabbro
+   - Patrick Konrad
+   - Giovanni Aleotti
+   - Anton Palzer
+   - Frederik Wandahl
+   - Patrick Gamper
+   - Nico Denz
+   - Cesare Benedetti
+- teamName: Cofidis
+  cyclists:
+   - Simon Geschke
+   - Davide Cimolai
+- teamName: EF Education – EasyPost
+  cyclists:
+   - Magnus Cort
+   - Ben Healy
+- teamName: INEOS Grenadiers
+  cyclists:
+   - Geraint Thomas
+   - Thymen Arensman
+   - Filippo Ganna
+   - Elia Viviani
+   - Luke Rowe
+- teamName: Team Jayco – AlUla
+  cyclists:
+   - Eddie Dunbar
+   - Matteo Sobrero
+- teamName: Trek – Segafredo
+  cyclists:
+   - Giulio Ciccone
+   - Mads Pedersen
+   - Jasper Stuyven
+   - Alex Kirsch
+   - Natnael Testatsion
+   - Dario Cataldo
+- teamName: UAE Emirates
+  cyclists:
+   - João Almeida
+   - Jay Vine
+   - Diego Ulissi
+   - Alessandro Covi
