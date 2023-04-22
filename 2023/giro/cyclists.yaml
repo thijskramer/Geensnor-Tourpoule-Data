@@ -1,86 +1,151 @@
 ---
 - teamName: Jumbo – Visma
   cyclists:
-   - Primoz Roglic
-   - Wilco Kelderman
-   - Robert Gesink
-   - Tobias Foss
-   - Koen Bouwman
-   - Jan Tratnik
-   - Michel Hessmann
-   - Edoardo Affini
+    - Primoz Roglic
+    - Sepp Kuss
+    - Robert Gesink
+    - Tobias Foss
+    - Koen Bouwman
+    - Jan Tratnik
+    - Michel Heßmann
+    - Edoardo Affinii
+- teamName: Alpecin – Deceuninck
+  cyclists:
+    - Kaden Groves
+    - Ramon Sinkeldam
+    - Kristian Sbaragli
+    - Oscar Riesebeek
+    - Stefano Oldani
+    - Nicola Conci
+- teamName: Intermarché – Circus – Wanty
+  cyclists:
+    - Rune Herregodts
+    - Niccolò Bonifazio’
 - teamName: Soudal – QuickStep
   cyclists:
-   - Remco Evenepoel
-   - Yves Lampaert
-   - Ilan Van Wilder
-   - Jan Hirt
-   - Pieter Serry
-   - Davide Ballerini
-   - Mattia Cattaneo
-   - Fausto Masnada
+    - Remco Evenepoel
+    - Luis Vervaeke
+    - Ilan Van Wilder
+    - Josef Cerny
+    - Jan Hirt
+    - Pieter Serry
+    - Davide Ballerini
+    - Mattia Cattaneo
+    - Fausto Masnada
 - teamName: Team DSM
   cyclists:
-   - Patrick Bevin
-   - Harm Vanhoucke
-   - Henri Vandenabeele
-   - Andreas Leknessund
+    - Patrick Bevin
+    - Harm Vanhoucke
+    - Henri Vandenabeele
+    - Andreas Leknessund
+- teamName: AG2R Citroën
+  cyclists:
+    - Andrea Vendrame
+    - Larry Warbasse
+    - Aurélien Paret-Peintre
+    - Nicolas Prodhomme
+    - Felix Gall
+- teamName: Arkéa Samsic
+  cyclists:
+    - Warren Barguil
+    - Andrii Ponomar
 - teamName: Astana Qazaqstan Team
   cyclists:
-   - Gianni Moscon
-   - Joe Dombrowski
-   - Simone Velasco
-   - Harold Tejada
+    - Mark Cavendish
+    - Fabio Felline
+    - Gianni Moscon
+    - Joe Dombrowski
+    - Simone Velasco
+    - Harold Tejada
+    - Vadim Pronskiy
 - teamName: Bahrain Victorious
   cyclists:
-   - Damiano Caruso
-   - Gino Mäder
-   - Jack Haig
-   - Edoardo Zambanini
-   - Santiago Buitrago
+    - Damiano Caruso
+    - Gino Mäder
+    - Jack Haig
+    - Edoardo Zambanini
+    - Santiago Buitrago
+    - Jasha Sütterlin
+    - Jonathan Milan
 - teamName: BORA – hansgrohe
   cyclists:
-   - Aleksandr Vlasov
-   - Lennard Kämna
-   - Bob Jungels
-   - Matteo Fabbro
-   - Patrick Konrad
-   - Giovanni Aleotti
-   - Anton Palzer
-   - Frederik Wandahl
-   - Patrick Gamper
-   - Nico Denz
-   - Cesare Benedetti
+    - Aleksandr Vlasov
+    - Lennard Kämna
+    - Matteo Fabbro
+    - Patrick Konrad
+    - Giovanni Aleotti
+    - Anton Palzer
+    - Patrick Gamper
+    - Nico Denz
+    - Cesare Benedetti
 - teamName: Cofidis
   cyclists:
-   - Simon Geschke
-   - Davide Cimolai
+    - Simon Geschke
+    - Davide Cimolai
+    - Victor Lafay
+    - Alexandre Delettre
 - teamName: EF Education – EasyPost
   cyclists:
-   - Magnus Cort
-   - Ben Healy
+    - Rigoberto Uran
+    - Magnus Cort
+    - Ben Healy
+    - Jefferson Cepeda
+- teamName: Groupama – FDJ
+  cyclists:
+    - Thibaut Pinot
+    - Stefan Küng
+    - Lars van den Berg
 - teamName: INEOS Grenadiers
   cyclists:
-   - Geraint Thomas
-   - Thymen Arensman
-   - Filippo Ganna
-   - Elia Viviani
-   - Luke Rowe
-- teamName: Team Jayco – AlUla
+    - Tao Geoghegan Hart
+    - Geraint Thomas
+    - Thymen Arensman
+    - Filippo Ganna
+    - Elia Viviani
+    - Luke Rowe
+    - Pavel Sivakov
+    - Laurens De Plus
+    - Ben Swift
+    - Connor Swift
+- teamName: Movistar
   cyclists:
-   - Eddie Dunbar
-   - Matteo Sobrero
+    - Fernando Gaviria
+    - Einer Rubio
+    - Óscar Rodríguez
+    - Gonzalo Serrano
+- teamName: Team Jayco AlUla
+  cyclists:
+    - Eddie Dunbar
+    - Matteo Sobrero
+    - Filippo Zana
 - teamName: Trek – Segafredo
   cyclists:
-   - Giulio Ciccone
-   - Mads Pedersen
-   - Jasper Stuyven
-   - Alex Kirsch
-   - Natnael Testatsion
-   - Dario Cataldo
+    - Giulio Ciccone
+    - Bauke Mollema
+    - Mads Pedersen
+    - Jasper Stuyven
+    - Alex Kirsch
+    - Natnael Testatsion
 - teamName: UAE Emirates
   cyclists:
-   - João Almeida
-   - Jay Vine
-   - Diego Ulissi
-   - Alessandro Covi
+    - João Almeida
+    - Jay Vine
+    - Diego Ulissi
+    - Davide Formolo
+    - Pascal Ackermann
+    - Alessandro Covi
+- teamName: EOLO – Kometa
+  cyclists:
+    - Erik Fetter
+    - Lorenzo Fortunato
+- teamName: Israel – Premier Tech
+  cyclists:
+    - Simon Clarke
+    - Domenico Pozzovivo
+- teamName: Team Corratec
+  cyclists:
+    - Valerio Conti
+    - Jan Stöckli
+    - Antonio Barać
+    - Matteo Amella
+    - Alessandro Iacchi
